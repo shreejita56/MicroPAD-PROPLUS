@@ -1,1 +1,19 @@
 # MicroPAD-PROPLUS
+
+So I made a custom 3x3 Micropad based on Xiao RP2040 and it has  a rotor encoder on top . We have used diodes to prevent ghosting , the Switches are hot-swappable and it has a concise design.
+
+## Schematics 
+<img width="1382" height="551" alt="Screenshot 2026-10-07 182451" src="https://github.com/user-attachments/assets/f6f3b2b8-67b5-4acd-8971-091573b7cb45" />
+
+## PCB 
+
+<img width="847" height="820" alt="Screenshot 2026-10-07 191313" src="https://github.com/user-attachments/assets/f6691c2c-79c6-408b-a002-555928de5e12" />
+<img width="850" height="776" alt="Screenshot 2026-10-07 191327" src="https://github.com/user-attachments/assets/66cfb720-bd34-46c5-bc77-bc2f113616fd" />
+
+## 3D Design 
+<img width="570" height="505" alt="Screenshot 2026-10-07 192611" src="https://github.com/user-attachments/assets/ea0700a5-42fd-44a4-af9e-c5aaf7474bb3" />
+<img width="710" height="615" alt="Screenshot 2026-10-07 193816" src="https://github.com/user-attachments/assets/0d82d09f-8743-40dd-b9eb-f27d74dcc350" />
+
+## Built View 
+<img width="487" height="600" alt="Screenshot 2026-10-09 155643" src="https://github.com/user-attachments/assets/90c1da94-e67d-4749-aa88-4ef7016055b0" />
+<img width="771" height="611" alt="Screenshot 2026-10-09 155454" src="https://github.com/user-attachments/assets/6653f551-dad9-4575-bdf4-55f79182543e" />
