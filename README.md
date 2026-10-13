@@ -26,6 +26,21 @@ Lastly I made the Firmware for the PCB which I wrote completely in C language .
   So 'first I Soldered the Hot-Swapes onto the board and after that I soldered the diodes onto the other side ,prior to that I Soldered the LEDS and then at the END I soldered the Rotor Encoder and the Xiao Rp2040. After that I assembled the PCB onto the base and then I added the Switch assembles with the Middle layer onto the PCB and at the End I added the top layer CAD and added the KeyCaps. 
   
 
+- # Bill of Materials (BOM)
+
+| Item | Price (USD) | Source |
+|------|------------:|--------|
+| PCB + Shipping (after coupons) | 0 Already have| JLCPCB |
+| Xiao RP2040 + Shipping | 0 Already have | https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board |
+| Keycaps (Pack of 5) ×2 | 0 Already have | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/ |
+| Switches (Pack of 10) | 0 Already have| https://neomacro.in/products/hmx-snowfall-tactile-switch |
+| Hot-Swap Sockets (Pack of 10) | 0 Already have| https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ |
+| Meckeys Shipping | 0 Already have | https://meckeys.com |
+| Diodes (10 pcs) | Already have | — |
+| Rotary Encoder | Already have | — |
+| **Total** | **0.00** | |
+
+
 
 ## Schematics 
 <img width="1382" height="551" alt="Screenshot 2026-10-07 182451" src="https://github.com/user-attachments/assets/f6f3b2b8-67b5-4acd-8971-091573b7cb45" />
