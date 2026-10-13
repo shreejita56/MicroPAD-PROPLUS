@@ -21,6 +21,11 @@ Lastly I made the Firmware for the PCB which I wrote completely in C language .
 - Compact Design
 - Three layered Case with base (Structured at an angle )
 
+  ## User Built Instructions
+
+  So 'first I Soldered the Hot-Swapes onto the board and after that I soldered the diodes onto the other side ,prior to that I Soldered the LEDS and then at the END I soldered the Rotor Encoder and the Xiao Rp2040. After that I assembled the PCB onto the base and then I added the Switch assembles with the Middle layer onto the PCB and at the End I added the top layer CAD and added the KeyCaps. 
+  
+
 
 ## Schematics 
 <img width="1382" height="551" alt="Screenshot 2026-10-07 182451" src="https://github.com/user-attachments/assets/f6f3b2b8-67b5-4acd-8971-091573b7cb45" />
