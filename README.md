@@ -2,7 +2,7 @@
 <img width="487" height="600" alt="Screenshot 2026-10-09 155643" src="https://github.com/user-attachments/assets/0f80bf00-f66a-4303-bbc4-1b731e5a9a8a" />
 
 
-So I made a custom 3x3 Micropad based on Xiao RP2040 and it has  a rotor encoder on top . We have used diodes to prevent ghosting , the Switches are hot-swappable and it has a conpact design.
+So I made a custom 3x3 Micropad based on Xiao RP2040 and it has  a rotor encoder on top . We have used diodes to prevent ghosting , the Switches are hot-swappable and it has a compact design.
 <br>
 The PCB Design was made on Kicad. Here I used the SMD Footprint for the Xiao Rp2040 and Hot-Swappable Footprint for the Switches . The rotor encoder at the top of the matrix also works as a switch . So In total We can use this MicroPad for 9 different Shortcuts and the rotor encoder can be used as a Volume Controller.Also It has per switch LEDS as well <br>
 
