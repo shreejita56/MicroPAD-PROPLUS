@@ -4,14 +4,22 @@
 
 So I made a custom 3x3 Micropad based on Xiao RP2040 and it has  a rotor encoder on top . We have used diodes to prevent ghosting , the Switches are hot-swappable and it has a concise design.
 <br>
-The PCB Design was made on Kicad. Here I used the SMD Footprint for the Xiao Rp2040 and Hot-Swappable Footprint for the Switches . The rotor encoder at the top of the matrix also works as a switch . So In total We can use this MicroPad for 9 different Shortcuts and the rotor encoder can be used as a Volume Controller. <br>
+The PCB Design was made on Kicad. Here I used the SMD Footprint for the Xiao Rp2040 and Hot-Swappable Footprint for the Switches . The rotor encoder at the top of the matrix also works as a switch . So In total We can use this MicroPad for 9 different Shortcuts and the rotor encoder can be used as a Volume Controller.Also It has per switch LEDS as well <br>
 
 We have also used a Diode with each Switch , So that we can prevent Ghosting. The PCB also have few connection holes which helps it to connect with the CASE Properly.
 <br>
 I have tried to make the PCB design as compact as I could <br>
 
-Then Comes the CAD . Which was Done in fusion . I Tracked the boundary of the PCB  
+Then Comes the CAD . Which was Done in fusion . I Tracked the boundary of the PCB with come relief space then marked the Connection hole on the PCB as well . After which I designed the Bottom Case onto which the PCB Rests and Then I made a 3X3 Center case to hold the Switches and a Top case to add the finish and at the end I made hole for the USB-C connection and made the Base case in a angle so that It sits on a angle on the table.
+<br>
 
+Lastly I made the Firmware for the PCB which I wrote completely in C language .
+
+### Features
+- 3x3 Switch Design with rotor encoder on top
+- Per switch LED and Diode for ghosting
+- Compact Design
+- Three layered Case with base (Structured at an angle )
 
 
 ## Schematics 
