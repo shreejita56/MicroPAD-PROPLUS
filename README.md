@@ -37,3 +37,6 @@ Lastly I made the Firmware for the PCB which I wrote completely in C language .
 ## Built View 
 <img width="487" height="600" alt="Screenshot 2026-10-09 155643" src="https://github.com/user-attachments/assets/90c1da94-e67d-4749-aa88-4ef7016055b0" />
 <img width="771" height="611" alt="Screenshot 2026-10-09 155454" src="https://github.com/user-attachments/assets/6653f551-dad9-4575-bdf4-55f79182543e" />
+
+## Demo Link
+youtube.com/shorts/5VS75XL_3SE?feature=share
